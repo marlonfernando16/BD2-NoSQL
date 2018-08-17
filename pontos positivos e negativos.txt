@@ -1,0 +1,7 @@
+Ponto positivo: independencia
+dos documentos e poder aninhar
+documentos.
+
+Ponto negativo: Nao possui 
+integridade.
+
